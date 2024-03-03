@@ -174,7 +174,7 @@ O código gera um gráfico que, em escala logarítmica, representa a relação e
 ---
 
 ##Autor
-**Nome:** [ Lauro Bonometti ] 
+**Nome:** [ Lauro Bonometti ] <br>
 **Email:** [ lauro.f.bonometti@gmail.com ]
 <br>
 
