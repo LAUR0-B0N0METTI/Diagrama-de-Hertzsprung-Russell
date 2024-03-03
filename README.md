@@ -169,7 +169,7 @@ O Diagrama de Hertzsprung-Russell é uma ferramenta gráfica que relaciona lumin
 
 ### Relação com o Código
 
-O código gera um gráfico que, em escala logarítmica, representa a relação entre temperaturas e luminosidades das estrelas. Isso permite visualizar padrões semelhantes aos encontrados no Diagrama HR. As estatísticas calculadas, como médias e coeficiente de correlação, fornecem insights sobre as relações entre essas variáveis, contribuindo para a compreensão da distribuição estelar.
+O código gera um gráfico que, em escala logarítmica, representa a relação entre temperaturas e luminosidades das estrelas. Isso permite visualizar padrões semelhantes aos encontrados no Diagrama HR. As estatísticas calculadas, como médias e coeficiente de correlação, fornece entendimento sobre as relações entre essas variáveis, contribuindo para a compreensão da distribuição estelar.
 
 ---
 
