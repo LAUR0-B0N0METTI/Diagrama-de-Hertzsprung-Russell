@@ -102,6 +102,7 @@ def main():
     print(f"variância da luminosidade = {var_lum}")
 
     num = 0
+    
     # Calcula o COEFICIENTE DE RELAÇÃO LINEAR entre a temperatura e luminosidade:    
     for i in range(0, len(LUM_LIST)):
         num += (LUM_LIST[i] - lum_mean) * (TEMP_LIST[i] - temp_mean)
