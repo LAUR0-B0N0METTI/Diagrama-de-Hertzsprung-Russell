@@ -173,11 +173,10 @@ O código gera um gráfico que, em escala logarítmica, representa a relação e
 
 ---
 
-## Autor
+##Autor
 **Nome:** [ Lauro Bonometti ] 
 **Email:** [ lauro.f.bonometti@gmail.com ]
 <br>
-<br>
 
-## Licença
+##Licença
 Este código é disponibilizado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
