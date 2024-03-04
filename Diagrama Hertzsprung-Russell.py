@@ -54,7 +54,7 @@ LUM_LIST = [
     10.539346627482471,
     7.296555172668332,
     1.6762338275175157,
-    0.9912831376784479,     ##The Sun
+    0.9912831376784479, ---> ##The Sun / Sol
     0.514075155987892,
     0.15357191048597174,
     0.09323559550487617,
@@ -72,8 +72,8 @@ LUM_LIST = [
 
 def main():
 
-    plt.yscale("log")  # Coloca os eixos em escala logarítmica
-    plt.xscale("log")  # Coloca os eixos em escala logarítmica
+    plt.yscale("log")  # Coloca o eixo "Y" em escala logarítmica
+    plt.xscale("log")  # Coloca o eixo "X" em escala logarítmica
     plt.gca().invert_xaxis()  # Inverte a direção do eixo x
 
     # Plota:
